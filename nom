@@ -1,0 +1,2 @@
+camel:x:1000:1000:Camel,,,:/home/camel:/usr/bin/zsh
+camelgeek:x:1001:1002:camelgeek,,,:/home/camelgeek:/bin/bash
