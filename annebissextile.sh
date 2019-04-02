@@ -1,0 +1,2 @@
+# Récupère une année en parametre et dis si cette anné est bissextille
+test \( `expr $1 % 4` -eq 0 -a `expr $1 % 100` -ne 0 \) -o `expr $1 % 400` -eq 0 && echo "l'année $1 est bissextille" || echo "l'année $1 n'est bissextille"
