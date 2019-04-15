@@ -1,0 +1,2 @@
+. testinclusion
+echo "Bonsoir"
